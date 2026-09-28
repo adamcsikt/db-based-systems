@@ -1,0 +1,1 @@
+### SZTE adatbázis alapú rendszerek
