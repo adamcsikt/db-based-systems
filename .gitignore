@@ -1,1 +1,3 @@
-environment**
+environment/**
+!environment/template/
+!environment/template/**
